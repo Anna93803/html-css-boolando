@@ -84,8 +84,9 @@ header .col:nth-child(2) {
     gap: 1rem;
 }
 
-.p-tb {
-    padding: 6.875rem 0;
+main {
+    padding-top: 6.875rem;
+    padding-bottom: 9.375rem;
 }
 
 main .col {
